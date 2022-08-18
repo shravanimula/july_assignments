@@ -6,6 +6,7 @@ def fib(n):
     else:
         return (fib(n-1) + fib(n-2))
 
+
 num=int(input("enter a number:"))
 result=fib(num)
 print(result)

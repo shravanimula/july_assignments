@@ -13,6 +13,7 @@ def odd(min,max):
         while (i%2)!=0:
             print(i,"is odd")
             break
+
 min=int(input("enter the minimum number:"))
 max=int(input("enter the maximum number:"))
 odd(min,max)

@@ -13,7 +13,6 @@ def prime():
         print("given number is not prime number:",a)
 prime()
 
-
 min=int(input("enter the minimum number:"))
 max=int(input("enter the maximum number:"))
 for i in range(min,max+1):

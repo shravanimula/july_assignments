@@ -1,0 +1,15 @@
+a=[1,2,3,4,5,0,1,2,3]
+print(a)
+print(all(a))
+print(any(a))
+print(list(enumerate(a)))
+print(len(a))
+a1="thundersoft"
+print(list(a1))
+a2=("aaaa","bbbb","ccccc")
+print(list(a2))
+a3={1,2,3,4,5}
+print(list(a3))
+print(max(a))
+print(min(a))
+print(sum(a))
